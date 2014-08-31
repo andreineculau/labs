@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta http-equiv="pragma" content="no-cache">
+			<meta name="HandheldFriendly" content="true" />
+			<meta name="viewport" content="width=device-width; height=device-height; initial-scale=0.75; maximum-scale=1.0; user-scalable=1" />
+			<link rel="shortcut icon" href="http://tyda.se/favicon.ico" type="image/x-icon">
+			<link rel="stylesheet" href="http://tyda.se/css/main.css?style=grey&rel=1276851317">
+			<link rel="stylesheet" href="http://tyda.se/css/grey.css?style=grey&rel=1293466648">
+			<style type="text/css">
+				.tyda_trans_actions,
+				.tyda_entry_edit,
+				.tyda_content > tbody > tr:first-child {display:none !important;}
+				
+				.tyda_entry_word > span {padding-left: 0.5em;}
+				
+				.tyda_res_body_trans_no_top_border {background-color:#eee;}
+				
+				body > form {width:500px; display:block;}
+				
+				* {font-size:16px !important;}
+				
+				/*table.tyda_header {width:75%; margin:0 auto}*/
+			</style>
+	</head>
+	<body>
+		<form class="tyda_search" method="get">
